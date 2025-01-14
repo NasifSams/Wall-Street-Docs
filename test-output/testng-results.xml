@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-14T22:38:42 BDT" name="Default suite" finished-at="2025-01-14T22:39:15 BDT" duration-ms="32622">
+    <groups>
+    </groups>
+    <test started-at="2025-01-14T22:38:42 BDT" name="Default test" finished-at="2025-01-14T22:39:15 BDT" duration-ms="32622">
+      <class name="Main.mainTestClass">
+        <test-method is-config="true" signature="ExtentSetUp()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:42 BDT" name="ExtentSetUp" finished-at="2025-01-14T22:38:42 BDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentSetUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:42 BDT" name="setUp" finished-at="2025-01-14T22:38:49 BDT" duration-ms="7124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SearchFunctionality()[pri:1, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:49 BDT" name="SearchFunctionality" finished-at="2025-01-14T22:38:52 BDT" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFunctionality -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:52 BDT" name="tearDown1" finished-at="2025-01-14T22:38:52 BDT" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:52 BDT" name="setUp" finished-at="2025-01-14T22:38:59 BDT" duration-ms="6576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddtoCartandRemove()[pri:2, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:38:59 BDT" name="AddtoCartandRemove" finished-at="2025-01-14T22:39:14 BDT" duration-ms="15728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCartandRemove -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:39:14 BDT" name="tearDown1" finished-at="2025-01-14T22:39:15 BDT" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:Main.mainTestClass@dd05255]" started-at="2025-01-14T22:39:15 BDT" name="tearDwon" finished-at="2025-01-14T22:39:16 BDT" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- Main.mainTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
